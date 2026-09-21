@@ -1,65 +1,47 @@
-Ahmad Choirudin
+# Ahmad Choirudin
 
-AI Trainer & Evaluator · Data Annotation · Web3 Research · Frontend
+### AI Trainer & Evaluator | Data Annotation | Web3 Research | Frontend | Digital Operations
 
-Indonesia · Remote
+Indonesia · Remote / Freelance
 
-About Me
+I work on AI evaluation, data annotation, linguistic quality review, Web3 research, frontend development, and digital operations.
 
-I'm a freelance digital worker with experience across AI data annotation, AI evaluation, linguistic quality review, Web3 research, and digital operations.
+My background combines hands-on work experience with self-directed learning and remote digital projects.
 
-I enjoy working with structured data, evaluating content, researching digital products and Web3 projects, and building practical digital projects.
+## Core Skills
 
-I'm currently developing my skills and portfolio in AI evaluation, Indonesian linguistic QA, Web3 research, and frontend development.
-
-Skills
-
-AI & Data
-
-- AI Data Annotation
-- AI Evaluation
-- Linguistic Quality Review
-- Content Evaluation
-- Structured Data
-
-Web3 & Research
-
-- Web3 Research
-- Crypto Research
-- Project & Ecosystem Research
-- Digital Research
-
-Frontend & Technical
-
-- HTML
-- CSS
-- JavaScript
-- JSON
+- AI Evaluation & Data Annotation
+- Indonesian Linguistic & Localization Review
+- Web & Search Evaluation
+- Web3 / Blockchain / DeFi Research
+- HTML, CSS & JavaScript
+- Git & GitHub
+- Frontend UI Development
+- Online Research & Data Analysis
+- Community & Digital Operations
 - AI Tools & Prompting
+- JSON
 
-Digital Operations
+## Portfolio
 
-- Community Operations
-- Social Media
-- Marketing
-- Online Research
+### AI Evaluation
+Sample AI response evaluation covering relevance, accuracy, clarity, language quality, completeness, and tone.
 
-Featured Projects
+→ [View Project](https://github.com/ahmad-choirudin/portfolio/tree/main/ai-evaluation)
 
-🚧 AI & Indonesian Linguistic Evaluation
-Practical examples of Indonesian language evaluation, annotation, and structured feedback.
+### Web3 Research
+Self-directed research framework for analyzing Web3, blockchain, and DeFi projects.
 
-🚧 Web3 Research
-Research projects covering Web3 products, ecosystems, token information, and publicly available blockchain data.
+→ [View Project](https://github.com/ahmad-choirudin/portfolio/tree/main/web3-research)
 
-🚧 Frontend Projects
-Practical web projects built while developing frontend skills with HTML, CSS, and JavaScript.
+### Frontend
+Web3-inspired frontend practice project built with HTML and CSS.
 
-Experience
+→ [View Project](https://github.com/ahmad-choirudin/portfolio/tree/main/frontend)
 
-My professional background combines sales and merchandising experience with freelance digital work, AI data projects, Web3 research, marketing, and online community operations.
+→ [Live Demo](https://ahmad-choirudin.github.io/portfolio/frontend/web3-demo.html)
 
-Currently Learning
+## Currently Learning
 
 - JavaScript
 - React
@@ -67,18 +49,10 @@ Currently Learning
 - SQL
 - Web3 Development
 - Smart Contracts
+- Modern Frontend Development
 
-Career Focus
+## Connect
 
-I'm building practical projects for remote opportunities in:
-
-AI · Data · Web3 · Frontend · Digital Operations
-
-Connect
-
-- LinkedIn: Coming soon
-- Portfolio: Coming soon
-
----
-
-Learning by building and documenting practical projects.
+- [Portfolio](https://ahmad-choirudin.github.io/portfolio/)
+- [LinkedIn](https://www.linkedin.com/in/ahmad-choirudin-344a78393)
+- [X](https://x.com/CubbieOG)
