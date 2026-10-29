@@ -6,7 +6,7 @@
 
 Building useful web experiences, improving AI systems through data work, and exploring the on-chain world.
 
-[Portfolio](https://ahmadchoirudin.vercel.app/) · [LinkedIn](https://linkedin.com/in/ahmadchoirudin) · [X](https://x.com/CubbieOG)
+[Portfolio](https://ahmadchoirudin.my.id/) · [LinkedIn](https://linkedin.com/in/ahmadchoirudin) · [X](https://x.com/CubbieOG)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ahmad-choirudin&style=flat&color=C4F56A&label=PROFILE+VIEWS)
 
@@ -45,7 +45,7 @@ A playful NFT marketplace frontend concept with a 3D-inspired collection, wallet
 
 **Stack:** React · Vite · JavaScript · CSS · EIP-1193 wallet integration
 
-[**Live Demo →**](https://cubbie-nft.vercel.app/)
+[**Live Demo →**](https://cubbienft.my.id/)
 
 *Frontend demonstration; it does not currently execute real NFT smart-contract transactions.*
 
@@ -54,21 +54,21 @@ A dark, research-focused dashboard that brings crypto market data, DeFi TVL, new
 
 **Stack:** React · Vite · API integrations · EIP-1193
 
-[**Live Demo →**](https://web3-research-os.vercel.app/)
+[**Live Demo →**](https://web3os.my.id/)
 
 ### 3. Airdrop Tracker
 A dashboard concept for organizing Web3 opportunities, tracking tasks, and keeping research in one place. Includes an explore view, task board, calendar, notifications, watchlist, and project details.
 
 **Stack:** React · Vite · Tailwind CSS · localStorage
 
-[**Live Demo →**](https://airdrop-tracker-sigma.vercel.app/)
+[**Live Demo →**](https://dropwatch.web.id/)
 
 *The current version stores data locally in the browser and does not use a backend account system.*
 
 ### 4. Personal Portfolio
 My portfolio for presenting selected projects, skills, experience, and learning credentials.
 
-[**Visit Portfolio →**](https://ahmadchoirudin.vercel.app/)
+[**Visit Portfolio →**](https://ahmadchoirudin.my.id/)
 
 ## AI & Digital Work
 
@@ -104,7 +104,7 @@ I continue to study blockchain fundamentals, Layer 1 ecosystems, tokenomics, int
 
 ## Connect
 
-- **Portfolio:** https://ahmadchoirudin.vercel.app/
+- **Portfolio:** https://ahmadchoirudin.my.id/
 - **LinkedIn:** https://linkedin.com/in/ahmadchoirudin
 - **GitHub:** https://github.com/ahmad-choirudin
 - **X:** https://x.com/CubbieOG
