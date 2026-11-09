@@ -2,11 +2,11 @@
 
 # Ahmad Choirudin
 
-### AI Trainer · Data Annotator · Web3 Researcher · Frontend Developer
+### AI Trainer · Data Annotator · Web3 Researcher · Frontend & Smart Contract Builder
 
-Building useful web experiences, improving AI systems through data work, and exploring the on-chain world.
+Making AI systems better through data work, and building on-chain with Solidity and Rust.
 
-[Portfolio](https://ahmadchoirudin.my.id/) · [LinkedIn](https://linkedin.com/in/ahmadchoirudin) · [X](https://x.com/CubbieOG)
+[Portfolio](https://ahmadchoirudin.my.id/) · [LinkedIn](https://linkedin.com/in/ahmadchoirudin) · [X](https://x.com/CubbieOG) · [Telegram](https://t.me/CubbieOG)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ahmad-choirudin&style=flat&color=C4F56A&label=PROFILE+VIEWS)
 
@@ -16,14 +16,12 @@ Building useful web experiences, improving AI systems through data work, and exp
 
 ## About Me
 
-I'm a multidisciplinary digital contributor focused on **AI data quality, Web3 research, and frontend development**. I enjoy learning by building practical projects, exploring blockchain ecosystems, and turning ideas into clear, usable digital experiences.
+I work at the intersection of **AI data quality, Web3, and software development**. By day I help improve language models through careful evaluation and annotation. The rest of the time I build frontends and write smart contracts, and I like to ship small projects with tests and documentation instead of leaving them half-finished.
 
-- **AI:** LLM evaluation, data annotation, content quality, and instruction-following assessment.
-- **Web3:** Ecosystem research, crypto research, airdrop tracking, and community operations.
-- **Frontend:** React, JavaScript/TypeScript, Vite, and Tailwind CSS.
-- **Currently learning:** Deeper frontend engineering and smart contract development.
-
-I value clear communication, independent learning, and honest, well-documented work.
+- **AI:** LLM evaluation, data annotation, and Indonesian-language quality review.
+- **Web3:** Ecosystem research, crypto and airdrop research, and community operations.
+- **Build:** React, TypeScript, Tailwind CSS, Solidity, and Rust.
+- **Now:** Smart contract security patterns and Solana programs in Rust.
 
 ## Tech Stack & Tools
 
@@ -36,60 +34,63 @@ I value clear communication, independent learning, and honest, well-documented w
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
+  <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" alt="Solana"/>
+  <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=ethereum&logoColor=000000" alt="Hardhat"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
-## Featured Projects
+## Focus Areas
 
-### 1. Cubbie NFT Marketplace
-A playful NFT marketplace frontend concept with a 3D-inspired collection, wallet connection interface, auction timers, drop countdown, and interactive listing UI.
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>🧠 AI Quality</h3>
+      Evaluating and annotating data so language models give clearer, safer, and more useful answers.
+    </td>
+    <td align="center" width="33%">
+      <h3>⛓️ Web3</h3>
+      Researching ecosystems, tokenomics, and on-chain trends, then turning notes into usable insight.
+    </td>
+    <td align="center" width="33%">
+      <h3>🎨 Frontend</h3>
+      Building clean, responsive interfaces with React, TypeScript, and Tailwind CSS.
+    </td>
+  </tr>
+</table>
 
-**Stack:** React · Vite · JavaScript · CSS · EIP-1193 wallet integration
+## How I Work
 
-[**Live Demo →**](https://cubbienft.my.id/)
+```mermaid
+flowchart LR
+    A[Research] --> B[Build]
+    B --> C[Test]
+    C --> D[Document]
+    D --> E[Improve]
+    E --> A
+```
 
-*Frontend demonstration; it does not currently execute real NFT smart-contract transactions.*
-
-### 2. Web3 Research OS
-A dark, research-focused dashboard that brings crypto market data, DeFi TVL, news, wallet information, and research notes into one interface.
-
-**Stack:** React · Vite · API integrations · EIP-1193
-
-[**Live Demo →**](https://web3os.my.id/)
-
-### 3. Airdrop Tracker
-A dashboard concept for organizing Web3 opportunities, tracking tasks, and keeping research in one place. Includes an explore view, task board, calendar, notifications, watchlist, and project details.
-
-**Stack:** React · Vite · Tailwind CSS · localStorage
-
-[**Live Demo →**](https://dropwatch.web.id/)
-
-*The current version stores data locally in the browser and does not use a backend account system.*
-
-### 4. Personal Portfolio
-My portfolio for presenting selected projects, skills, experience, and learning credentials.
-
-[**Visit Portfolio →**](https://ahmadchoirudin.my.id/)
+- **Clear over clever.** Simple solutions that other people can read and maintain.
+- **Tested before shipped.** If it can be checked, I check it.
+- **Honest documentation.** I write down what a project does, and what it does not.
 
 ## AI & Digital Work
 
-My work and learning interests include:
+| Area | What I do |
+| --- | --- |
+| **LLM evaluation** | Compare and rate model responses for accuracy, helpfulness, safety, and instruction-following, with clear written reasoning. |
+| **Data annotation** | Label and review datasets against detailed guidelines, with attention to consistency and edge cases. |
+| **Language quality** | Review Indonesian-language content for fluency, tone, and cultural fit. |
+| **Web3 research** | Track ecosystems, projects, tokenomics, and airdrop opportunities, and turn the notes into usable summaries. |
+| **Community & content** | Moderate online communities and write clear, practical content. |
+| **AI-assisted building** | Use AI tools to draft, review, and test code, then verify everything myself before shipping. |
 
-- LLM response evaluation and data annotation.
-- Indonesian-language content and quality review.
-- Web3 ecosystem and project research.
-- Crypto market and airdrop research.
-- Content writing and online community moderation.
-- Building frontend prototypes and practical web tools.
+## Currently Exploring
 
-## Learning & Credentials
-
-I continue to study blockchain fundamentals, Layer 1 ecosystems, tokenomics, interoperability, EVM concepts, and smart contract development.
-
-- **Avalanche Academy:** Blockchain and Avalanche ecosystem learning certificates.
-- **Starknet:** Starknet ecosystem learning certificates.
-- **Rise In:** Blockchain development learning.
-- **Ongoing:** Frontend engineering, Solidity, and Web3 development.
+- **Solana programs in Rust:** accounts, signer checks, PDAs, and Borsh serialization.
+- **Smart contract security:** reentrancy, access control, checked math, and safe token handling.
+- **Testing and CI:** Hardhat tests, `cargo test`, and GitHub Actions on every push.
+- **Better AI evaluation:** writing sharper rubrics and spotting failure modes in model output.
 
 ## GitHub Activity
 
